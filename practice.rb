@@ -1,4 +1,3 @@
-# ALL BASIC PRACTICE PROBLEMS
 
 # Variables
     # Question 1
